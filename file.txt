@@ -1,0 +1,7 @@
+1. Created a directory lesson02
+2. Created an account in git hub
+3. Added the global user email prabhanjanshurpali@gmail.com 
+4. added the user.name as pshurpal
+5. git add and commit on the workspace
+6. git remote add to the git hub, add the lesson02 
+7. push the files to the remote git hub 
